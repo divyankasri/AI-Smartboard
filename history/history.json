@@ -1,0 +1,47 @@
+[
+    {
+        "time": "25-06-2026 10:49:22",
+        "question": "What is Artificial Intelligence?",
+        "answer": "Imagine you have a computer or a robot. Artificial Intelligence, or AI for short, is like giving that computer a brain so it can think and learn, kind of like a human does.\n\nIt's about making machines smart enough to do things that usually require human intelligence. This could be tasks like understanding language, recognizing faces, solving problems, or even learning from experience.\n\nSo, when you talk to a smart speaker, or your phone suggests what word to type next, or a program tells you what movie you might like, that's AI at work, trying to be helpful and intelligent in its own way."
+    },
+    {
+        "time": "25-06-2026 15:56:19",
+        "question": "what is the weather today in bhiwadi",
+        "answer": "I cannot tell you the exact weather in Bhiwadi right now because I do not have real-time information.\n\nTo find the current weather, please check a weather app or website."
+    },
+    {
+        "time": "25-06-2026 15:56:49",
+        "question": "what is dbms",
+        "answer": "DBMS stands for Database Management System.\n\nIt is a software system that helps you create, organize, manage, and retrieve data from a database. It allows users and applications to interact with a database."
+    },
+    {
+        "time": "25-06-2026 16:29:00",
+        "question": "AT",
+        "answer": "AT in an educational setting usually means Assistive Technology. These are tools or devices that help students with disabilities learn and communicate more easily."
+    },
+    {
+        "time": "01-07-2026 14:22:31",
+        "question": "why do people eat apple",
+        "answer": "People eat apples because they taste good, are healthy for you, and are easy to eat.\n\nThey are sweet, juicy, and refreshing. Apples have vitamins and fiber, which are good for your body and help you stay full. They are also a convenient snack to carry and eat anywhere."
+    },
+    {
+        "time": "02-07-2026 08:36:00",
+        "question": "wx",
+        "answer": "\"wx\" commonly refers to wxWidgets, which is a collection of tools used to create programs with graphical user interfaces (GUIs). It lets you build desktop applications that look like standard programs on Windows, Mac, or Linux."
+    },
+    {
+        "time": "02-07-2026 08:37:29",
+        "question": "wAl",
+        "answer": "wAl is not a standard term in computing or general knowledge.\n\nIt is likely a typo for SQL.\n\nSQL stands for Structured Query Language.\n\nIt is a special language used to talk to databases. Databases are like organized storage places for information. SQL lets you ask for information from a database, change information, or add new information."
+    },
+    {
+        "time": "02-07-2026 08:38:28",
+        "question": "wHY AI",
+        "answer": "AI helps us solve complex problems and automate tasks.\n\nIt makes computers intelligent enough to learn, understand, and make decisions like humans.\n\nThis helps us save time, improve accuracy, and discover new solutions in many areas, from healthcare to daily life."
+    },
+    {
+        "time": "02-07-2026 08:39:23",
+        "question": "what is dbms",
+        "answer": "DBMS stands for Database Management System.\n\nIt is a software system used to create, manage, and retrieve data from a database.\n\nThink of it as a tool that helps you organize, store, find, change, and delete information easily and safely."
+    }
+]

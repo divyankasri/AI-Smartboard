@@ -1,0 +1,10 @@
+APP_TITLE = "AI Smartboard Pro"
+
+WINDOW_WIDTH = 1200
+WINDOW_HEIGHT = 720
+
+PRIMARY_COLOR = "#3B82F6"
+
+BRUSH_SIZE = 2
+
+GEMINI_MODEL = "gemini-2.5-flash"
